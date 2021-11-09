@@ -1,3 +1,4 @@
 build/*
 devel/*
+src/PX4-SITL_gazebo/*
 # src/PX4-SITL_gazebo/models/* #adding as a submodule
