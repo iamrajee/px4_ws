@@ -1,3 +1,6 @@
 [submodule "src/PX4-Autopilot"]
 	path = src/PX4-Autopilot
 	url = https://github.com/PX4/PX4-Autopilot.git
+[submodule "src/PX4-SITL_gazebo"]
+	path = src/PX4-SITL_gazebo
+	url = https://github.com/PX4/PX4-SITL_gazebo.git
