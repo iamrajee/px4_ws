@@ -14,3 +14,6 @@ git submodule add https://github.com/iamrajee/PX4-Autopilot src/PX4-Autopilot
 git add .
 git commit -m "Added submodule PX4-Autopilot"
 git push origin main
+
+
+git rm --cached src/PX4-Autopilot
