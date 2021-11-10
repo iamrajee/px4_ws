@@ -3,4 +3,5 @@ devel/*
 src/PX4-Autopilot/*
 src/PX4-SITL_gazebo/*
 src/..*
+src/.PX4-Autopilot*
 # src/PX4-SITL_gazebo/models/* #adding as a submodule
